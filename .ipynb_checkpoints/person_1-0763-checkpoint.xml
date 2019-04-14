@@ -1,0 +1,26 @@
+<annotation>
+	<folder>alfabeto_e_os_numeros_em_librasy_ftfhlmm</folder>
+	<filename>person_1-0763.jpg</filename>
+	<path>C:\Users\usuario\git\libras-machine-learning\datasets\alfabeto_e_os_numeros_em_librasy_ftfhlmm\0763.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>letra_a</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>334</xmin>
+			<ymin>302</ymin>
+			<xmax>603</xmax>
+			<ymax>512</ymax>
+		</bndbox>
+	</object>
+</annotation>
